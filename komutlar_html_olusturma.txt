@@ -1,0 +1,8 @@
+install.packages("mapproj")
+install.packages("patchwork")
+
+> library(rmarkdown)
+> render('graph.Rmd')
+
+> render('html_yapma.Rmd')
+
